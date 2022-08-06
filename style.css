@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.sub_heading{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.first_name #name{
+    margin-top: 10px;
+}
+.last_name #surname{
+    margin-top: 10px;
+}
+.mailbox #email{
+    margin-top: 10px;
+}
+.select_list{
+    margin-top: 10px;
+}
+.droplist{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.radio_list{
+    margin-top: 10px;
+}
+.radio_list li{
+    padding-top: 10px;
+}
+.fav_feature{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+#fav_list{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.label_check{
+    margin-bottom: 5px;
+}
+.checkbox_list li{
+    padding-top: 10px;
+}
+.label_comment{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+textarea{
+    overflow-y: scroll;
+}
+/* Overflow-y scroll calismiyor */
