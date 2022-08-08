@@ -51,6 +51,6 @@
     margin-bottom: 5px;
 }
 textarea{
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 /* Overflow-y scroll calismiyor */
